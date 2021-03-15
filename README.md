@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @239103
 - 👀 I’m a senior engineer of Linux
-- 🌱 I’m currently learning k8s building and maintaining skills
+- 🌱 I’m currently learning kubernetes cluster provisioning and maintaining skills
 - 🍳 You can reach me via email: cw0319@qq.com
 
 <!---
